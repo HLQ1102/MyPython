@@ -8,7 +8,9 @@ def useradd(user, password, fname):
 passwd: %s \n
 ''' % (user, password)
     subprocess.call('useradd %s' % user, shell=True)
-    subprocess.call('echo %s | passwd --stdin %s' % (password, user), shell=True)
+    c = subprocess.call('echo %s | passwd --stdin %s &> /dev/null ; chage -d 0 %s' % (password, user, user), shell=True)
+    if c == 0:
+        print('用户%s创建成功，密码在%s中' % (user, fname))
     with open(fname, 'a') as fobj:
         fobj.write(info)
 
@@ -22,7 +24,7 @@ def randpass(n = 8):
     return b
 
 def user_check(user):
-    a = subprocess.call('id %s > /dev/null' % user, shell=True)
+    a = subprocess.call('id %s &> /dev/null' % user, shell=True)
     if a != 0:
         return 0
     else:
