@@ -1,522 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/py06/myfunc2.py" line="25" />
+    <bookmark url="file://$PROJECT_DIR$/py06/myfunc2.py" line="28" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="27e6b662-f784-466e-980f-e97509e5ed3e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/练习/int-wen.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/练习/int_wen.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/练习/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/13.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/dict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/jingdutiao.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/jizhang.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/os.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/raise.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/stac.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/stack1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/try.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py05/zhai.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/gen.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/jizhang.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/jizhang2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/math_game.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/math_game1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/math_game2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/myfun3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/myfunc2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py06/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/练习/11.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/hello.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/py04/hafa.py" afterPath="$PROJECT_DIR$/py04/hafa.py" />
-      <change beforePath="$PROJECT_DIR$/python01" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate_this.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.6" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.6" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python-config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python3.6" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/wheel" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/include/python3.6m" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/__future__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_bootlocale.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_collections_abc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_dummy_thread.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_weakrefset.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/abc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/base64.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/bisect.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/codecs.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/collections" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/config-3.6m-x86_64-linux-gnu" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/copy.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/copyreg.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/distutils/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/distutils/distutils.cfg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/encodings" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/enum.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/fnmatch.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/functools.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/genericpath.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/hashlib.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/heapq.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/hmac.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/imp.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/importlib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/io.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/keyword.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/lib-dynload" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/linecache.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/locale.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/no-global-site-packages.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/ntpath.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/operator.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/orig-prefix.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/os.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/posixpath.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/random.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/re.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/reprlib.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/rlcompleter.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/shutil.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/easy_install.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-18.1.dist-info/INSTALLER" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-18.1.dist-info/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-18.1.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-18.1.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-18.1.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-18.1.dist-info/entry_points.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-18.1.dist-info/top_level.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/__main__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/build_env.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/cache.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/cli/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/cli/autocompletion.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/cli/base_command.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/cli/cmdoptions.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/cli/main_parser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/cli/parser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/cli/status_codes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/check.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/completion.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/configuration.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/download.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/freeze.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/hash.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/help.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/install.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/list.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/search.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/show.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/uninstall.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/commands/wheel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/configuration.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/download.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/exceptions.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/index.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/locations.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/models/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/models/candidate.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/models/format_control.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/models/index.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/models/link.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/operations/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/operations/check.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/operations/freeze.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/operations/prepare.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/pep425tags.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/pyproject.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/req/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/req/constructors.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/req/req_file.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/req/req_install.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/req/req_set.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/req/req_tracker.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/req/req_uninstall.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/resolve.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/appdirs.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/deprecation.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/encoding.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/filesystem.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/glibc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/hashes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/logging.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/misc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/models.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/outdated.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/packaging.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/setuptools_build.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/temp_dir.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/typing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/utils/ui.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/vcs/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/vcs/bazaar.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/vcs/git.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/vcs/mercurial.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/vcs/subversion.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_internal/wheel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/appdirs.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/_cmd.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/adapter.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/cache.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/controller.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/serialize.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/certifi/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/certifi/__main__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/certifi/cacert.pem" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/certifi/core.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/big5freq.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/big5prober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/chardistribution.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/charsetgroupprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/charsetprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/cli/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/cli/chardetect.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/codingstatemachine.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/cp949prober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/enums.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/escprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/escsm.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/eucjpprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/euckrfreq.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/euckrprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/euctwfreq.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/euctwprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/gb2312freq.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/gb2312prober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/hebrewprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/jisfreq.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/jpcntx.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/langcyrillicmodel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/langgreekmodel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/langhebrewmodel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/langhungarianmodel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/langthaimodel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/langturkishmodel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/latin1prober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/mbcharsetprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/mbcssm.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/sbcharsetprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/sjisprober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/universaldetector.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/utf8prober.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/chardet/version.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/colorama/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/colorama/ansi.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/colorama/ansitowin32.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/colorama/initialise.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/colorama/win32.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/colorama/winterm.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/misc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/database.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/index.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/locators.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/manifest.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/markers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/metadata.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/resources.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/scripts.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/t32.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/t64.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/util.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/version.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/w32.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/w64.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/wheel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distro.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_ihatexml.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_inputstream.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_tokenizer.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/_base.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/datrie.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/py.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_utils.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/base.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/lint.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/html5parser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/serializer.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/base.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/base.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/idna/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/idna/codec.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/idna/compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/idna/core.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/idna/idnadata.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/idna/intranges.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/idna/package_data.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/idna/uts46data.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/ipaddress.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/lockfile/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/lockfile/linklockfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/lockfile/pidlockfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/lockfile/symlinklockfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/msgpack/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/msgpack/_version.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/msgpack/exceptions.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/msgpack/fallback.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/packaging/__about__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/packaging/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/packaging/_compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/packaging/_structures.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/packaging/markers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/packaging/requirements.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/packaging/specifiers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/packaging/utils.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/packaging/version.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pep517/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pep517/_in_process.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pep517/check.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pep517/colorlog.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pep517/compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pep517/envbuild.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pep517/wrappers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pkg_resources/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pkg_resources/py31compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/progress/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/progress/bar.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/progress/counter.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/progress/helpers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/progress/spinner.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pyparsing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pytoml/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pytoml/core.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pytoml/parser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/pytoml/writer.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/__version__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/_internal_utils.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/adapters.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/api.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/auth.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/certs.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/cookies.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/exceptions.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/help.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/hooks.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/models.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/packages.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/sessions.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/status_codes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/structures.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/requests/utils.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/retrying.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/six.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/_collections.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/connection.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/connectionpool.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/appengine.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/socks.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/exceptions.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/fields.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/filepost.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/ordered_dict.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/six.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/poolmanager.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/request.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/response.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/connection.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/queue.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/request.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/response.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/retry.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/ssl_.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/timeout.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/url.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/wait.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/webencodings/labels.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/webencodings/mklabels.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/webencodings/tests.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/webencodings/x_user_defined.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/appdirs.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/markers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/requirements.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/utils.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/version.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/six.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/extern/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/py31compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.6.2.dist-info/INSTALLER" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.6.2.dist-info/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.6.2.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.6.2.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.6.2.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.6.2.dist-info/dependency_links.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.6.2.dist-info/entry_points.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.6.2.dist-info/top_level.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.6.2.dist-info/zip-safe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_deprecation_warning.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/__about__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/_compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/_structures.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/markers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/requirements.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/specifiers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/utils.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/version.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/six.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/archive_util.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/build_meta.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/cli-32.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/cli-64.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/cli.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/alias.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/bdist_egg.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/bdist_rpm.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/bdist_wininst.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/build_clib.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/build_ext.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/build_py.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/develop.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/dist_info.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/easy_install.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/egg_info.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/install.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/install_egg_info.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/install_lib.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/install_scripts.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/launcher manifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/py36compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/register.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/rotate.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/saveopts.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/sdist.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/setopt.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/test.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/upload.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/upload_docs.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/config.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/dep_util.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/depends.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/dist.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/extension.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/extern/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/glibc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/glob.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/gui-32.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/gui-64.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/gui.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/launch.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/lib2to3_ex.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/monkey.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/msvc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/namespaces.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/package_index.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/pep425tags.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/py27compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/py31compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/py33compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/py36compat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/sandbox.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/script (dev).tmpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/script.tmpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/site-patch.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/ssl_support.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/unicode_utils.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/version.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/wheel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/windows_support.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/INSTALLER" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/entry_points.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/top_level.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/__main__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/bdist_wheel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/cli/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/cli/convert.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/cli/install.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/cli/pack.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/cli/unpack.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/metadata.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/pep425tags.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/pkginfo.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/util.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel/wheelfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/sre_compile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/sre_constants.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/sre_parse.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/stat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/struct.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/tarfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/tempfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/token.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/tokenize.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/types.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/warnings.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/weakref.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/练习/adduser.py" afterPath="$PROJECT_DIR$/练习/adduser.py" />
-      <change beforePath="$PROJECT_DIR$/练习/py_path.py" afterPath="$PROJECT_DIR$/练习/py_path.py" />
-      <change beforePath="$PROJECT_DIR$/练习/time_sleep.py" afterPath="$PROJECT_DIR$/练习/time_sleep.py" />
+      <change beforePath="$PROJECT_DIR$/练习/test.py" afterPath="$PROJECT_DIR$/练习/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -526,33 +39,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME="重复 Coverage Results" MODIFIED="1544491728441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
     <SUITE FILE_PATH="coverage/python$mytest__1_.coverage" NAME="mytest (1) Coverage Results" MODIFIED="1544409808654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
-    <SUITE FILE_PATH="coverage/python$hello.coverage" NAME="hello Coverage Results" MODIFIED="1544431927068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
     <SUITE FILE_PATH="coverage/python$guess.coverage" NAME="guess Coverage Results" MODIFIED="1544173287772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
-    <SUITE FILE_PATH="coverage/python$cp.coverage" NAME="cp Coverage Results" MODIFIED="1544254865352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
-    <SUITE FILE_PATH="coverage/python$hello__1_.coverage" NAME="hello (1) Coverage Results" MODIFIED="1544153599343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/python$stack1.coverage" NAME="stack1 Coverage Results" MODIFIED="1544613075424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/python$raise.coverage" NAME="raise Coverage Results" MODIFIED="1544605404347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/python$login1.coverage" NAME="login1 Coverage Results" MODIFIED="1544164547828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
+    <SUITE FILE_PATH="coverage/python$zhai__1_.coverage" NAME="zhai (1) Coverage Results" MODIFIED="1544577942506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1544673125965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
+    <SUITE FILE_PATH="coverage/python$try.coverage" NAME="try Coverage Results" MODIFIED="1544604436072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/python$user.coverage" NAME="user Coverage Results" MODIFIED="1544421941394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
-    <SUITE FILE_PATH="coverage/python$int_wen.coverage" NAME="int_wen Coverage Results" MODIFIED="1544496943007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python$os.coverage" NAME="os Coverage Results" MODIFIED="1544612189507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/python$list.coverage" NAME="list Coverage Results" MODIFIED="1544706906547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$seq.coverage" NAME="seq Coverage Results" MODIFIED="1544426474162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
+    <SUITE FILE_PATH="coverage/python$jingdutiao.coverage" NAME="jingdutiao Coverage Results" MODIFIED="1544613061620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/python$add.coverage" NAME="add Coverage Results" MODIFIED="1544428693165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
-    <SUITE FILE_PATH="coverage/python$zhai.coverage" NAME="zhai Coverage Results" MODIFIED="1544445444162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
-    <SUITE FILE_PATH="coverage/python$string1.coverage" NAME="string1 Coverage Results" MODIFIED="1544427181801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
+    <SUITE FILE_PATH="coverage/python$math_game.coverage" NAME="math_game Coverage Results" MODIFIED="1544681771621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1544405277482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
-    <SUITE FILE_PATH="coverage/python$randpass__1_.coverage" NAME="randpass (1) Coverage Results" MODIFIED="1544408636276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
-    <SUITE FILE_PATH="coverage/python$time_sleep.coverage" NAME="time_sleep Coverage Results" MODIFIED="1544494998649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python$gen.coverage" NAME="gen Coverage Results" MODIFIED="1544693665968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$hafa.coverage" NAME="hafa Coverage Results" MODIFIED="1544490724651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
-    <SUITE FILE_PATH="coverage/python$py_path.coverage" NAME="py_path Coverage Results" MODIFIED="1544498129821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
-    <SUITE FILE_PATH="coverage/python$while.coverage" NAME="while Coverage Results" MODIFIED="1544176068450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
-    <SUITE FILE_PATH="coverage/python$cp_func.coverage" NAME="cp_func Coverage Results" MODIFIED="1544260593270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
+    <SUITE FILE_PATH="coverage/python$math_game2.coverage" NAME="math_game2 Coverage Results" MODIFIED="1544699055146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
+    <SUITE FILE_PATH="coverage/python$11.coverage" NAME="11 Coverage Results" MODIFIED="1544533726374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python$tkinter1.coverage" NAME="tkinter1 Coverage Results" MODIFIED="1544692929936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$hanshu.coverage" NAME="hanshu Coverage Results" MODIFIED="1544258548571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
-    <SUITE FILE_PATH="coverage/python$shutil.coverage" NAME="shutil Coverage Results" MODIFIED="1544407830322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/usr/local/lib/python3.6" />
-    <SUITE FILE_PATH="coverage/python$randpass.coverage" NAME="randpass Coverage Results" MODIFIED="1544428359461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
-    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1544497796204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1544616976876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/python$jizhang2.coverage" NAME="jizhang2 Coverage Results" MODIFIED="1544686661793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
+    <SUITE FILE_PATH="coverage/python$tkinter.coverage" NAME="tkinter Coverage Results" MODIFIED="1544689905647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$grade.coverage" NAME="grade Coverage Results" MODIFIED="1544179678189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/python$__1_.coverage" NAME="练习 (1) Coverage Results" MODIFIED="1544258469003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
     <SUITE FILE_PATH="coverage/python$three_shu.coverage" NAME="three-shu Coverage Results" MODIFIED="1544492640075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="重复 Coverage Results" MODIFIED="1544491728441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python$hello.coverage" NAME="hello Coverage Results" MODIFIED="1544431927068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
+    <SUITE FILE_PATH="coverage/python$cp.coverage" NAME="cp Coverage Results" MODIFIED="1544254865352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
+    <SUITE FILE_PATH="coverage/python$math_game1.coverage" NAME="math_game1 Coverage Results" MODIFIED="1544682909109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
+    <SUITE FILE_PATH="coverage/python$myfunc2.coverage" NAME="myfunc2 Coverage Results" MODIFIED="1544687984250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
+    <SUITE FILE_PATH="coverage/python$hello__1_.coverage" NAME="hello (1) Coverage Results" MODIFIED="1544153599343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/python$13.coverage" NAME="13 Coverage Results" MODIFIED="1544661267779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/python$myfun3.coverage" NAME="myfun3 Coverage Results" MODIFIED="1544693603671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
+    <SUITE FILE_PATH="coverage/python$int_wen.coverage" NAME="int_wen Coverage Results" MODIFIED="1544496943007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python$stac.coverage" NAME="stac Coverage Results" MODIFIED="1544580182914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/python$zhai.coverage" NAME="zhai Coverage Results" MODIFIED="1544577724407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
+    <SUITE FILE_PATH="coverage/python$dict.coverage" NAME="dict Coverage Results" MODIFIED="1544613055678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/python$jizhang.coverage" NAME="jizhang Coverage Results" MODIFIED="1544621788165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/python$string1.coverage" NAME="string1 Coverage Results" MODIFIED="1544427181801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
+    <SUITE FILE_PATH="coverage/python$randpass__1_.coverage" NAME="randpass (1) Coverage Results" MODIFIED="1544408636276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
+    <SUITE FILE_PATH="coverage/python$time_sleep.coverage" NAME="time_sleep Coverage Results" MODIFIED="1544494998649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python$py_path.coverage" NAME="py_path Coverage Results" MODIFIED="1544498435256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python$while.coverage" NAME="while Coverage Results" MODIFIED="1544176068450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
+    <SUITE FILE_PATH="coverage/python$cp_func.coverage" NAME="cp_func Coverage Results" MODIFIED="1544260593270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
+    <SUITE FILE_PATH="coverage/python$shutil.coverage" NAME="shutil Coverage Results" MODIFIED="1544407830322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/usr/local/lib/python3.6" />
+    <SUITE FILE_PATH="coverage/python$randpass.coverage" NAME="randpass Coverage Results" MODIFIED="1544428359461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -571,23 +106,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="adduser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/练习/adduser.py">
+      <file leaf-file-name="jizhang.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py06/jizhang.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
-                <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="int_wen.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/练习/int_wen.py">
+      <file leaf-file-name="jizhang2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py06/jizhang2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="252">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py06/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="math_game1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py06/math_game1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="math_game2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py06/math_game2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -596,60 +163,52 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/练习/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="time_sleep.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/练习/time_sleep.py">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="py_path.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/练习/py_path.py">
+      <file leaf-file-name="myfunc2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py06/myfunc2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="three-shu.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/练习/three-shu.py">
+      <file leaf-file-name="list.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/py06/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hafa.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py04/hafa.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="290">
+              <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="int-wen.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/练习/int-wen.py">
+      <file leaf-file-name="myfun3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py06/myfun3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gen.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py06/gen.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -663,13 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python01" />
-        <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/py02/login1.py" />
-        <option value="$PROJECT_DIR$/py02/grade.py" />
-        <option value="$PROJECT_DIR$/py02/guess.py" />
-        <option value="$PROJECT_DIR$/py02/while.py" />
-        <option value="$PROJECT_DIR$/py02/练习.py" />
         <option value="$PROJECT_DIR$/py02/猜拳.py" />
         <option value="$PROJECT_DIR$/py03/猜拳.py" />
         <option value="$PROJECT_DIR$/py03/cp.py" />
@@ -695,9 +247,32 @@
         <option value="$PROJECT_DIR$/练习/重复.py" />
         <option value="$PROJECT_DIR$/练习/int-wen.py" />
         <option value="$PROJECT_DIR$/练习/int_wen.py" />
-        <option value="$PROJECT_DIR$/练习/test.py" />
         <option value="$PROJECT_DIR$/练习/time_sleep.py" />
         <option value="$PROJECT_DIR$/练习/py_path.py" />
+        <option value="$PROJECT_DIR$/练习/test.py" />
+        <option value="$PROJECT_DIR$/练习/11.py" />
+        <option value="$PROJECT_DIR$/py05/zhai.py" />
+        <option value="$PROJECT_DIR$/py05/stac.py" />
+        <option value="$PROJECT_DIR$/py05/stack1.py" />
+        <option value="$PROJECT_DIR$/py05/dict.py" />
+        <option value="$PROJECT_DIR$/py05/jingdutiao.py" />
+        <option value="$PROJECT_DIR$/py05/try.py" />
+        <option value="$PROJECT_DIR$/py05/raise.py" />
+        <option value="$PROJECT_DIR$/py05/os.py" />
+        <option value="$PROJECT_DIR$/py05/test.py" />
+        <option value="$PROJECT_DIR$/py05/jizhang.py" />
+        <option value="$PROJECT_DIR$/py05/13.py" />
+        <option value="$PROJECT_DIR$/py06/jizhang.py" />
+        <option value="$PROJECT_DIR$/py06/jizhang2.py" />
+        <option value="$PROJECT_DIR$/py06/test.py" />
+        <option value="$PROJECT_DIR$/py06/math_game.py" />
+        <option value="$PROJECT_DIR$/py06/math_game1.py" />
+        <option value="$PROJECT_DIR$/py06/myfunc2.py" />
+        <option value="$PROJECT_DIR$/py06/tkinter.py" />
+        <option value="$PROJECT_DIR$/py06/myfun3.py" />
+        <option value="$PROJECT_DIR$/py06/gen.py" />
+        <option value="$PROJECT_DIR$/py06/math_game2.py" />
+        <option value="$PROJECT_DIR$/py06/list.py" />
       </list>
     </option>
   </component>
@@ -708,10 +283,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="808" />
-    <option name="y" value="28" />
-    <option name="width" value="1112" />
-    <option name="height" value="1010" />
+    <option name="x" value="739" />
+    <option name="y" value="61" />
+    <option name="width" value="1092" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -751,12 +326,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nsd_2018/nsd1807/python1" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2877767" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/我的代码保存" />
       <recent name="$PROJECT_DIR$/py02" />
     </key>
   </component>
@@ -772,135 +348,135 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.py_path">
-    <configuration name="猜拳" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.list">
+    <configuration name="gen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py02/猜拳.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py06/gen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="int_wen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/int_wen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py06/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="py_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="math_game2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/py_path.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py06/math_game2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="myfun3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py06/myfun3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="three-shu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/three-shu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py06/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="time_sleep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tkinter1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/time_sleep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py06/tkinter1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.three-shu" />
-      <item index="1" class="java.lang.String" itemvalue="Python.int_wen" />
-      <item index="2" class="java.lang.String" itemvalue="Python.time_sleep" />
-      <item index="3" class="java.lang.String" itemvalue="Python.py_path" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tkinter1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.myfun3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.gen" />
+      <item index="3" class="java.lang.String" itemvalue="Python.math_game2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.list" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.py_path" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.int_wen" />
-        <item index="3" class="java.lang.String" itemvalue="Python.time_sleep" />
-        <item index="4" class="java.lang.String" itemvalue="Python.three-shu" />
+        <item index="0" class="java.lang.String" itemvalue="Python.list" />
+        <item index="1" class="java.lang.String" itemvalue="Python.math_game2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.gen" />
+        <item index="3" class="java.lang.String" itemvalue="Python.myfun3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tkinter1" />
       </list>
     </recent_temporary>
   </component>
@@ -921,43 +497,52 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="808" y="28" width="1112" height="1010" extended-state="0" />
+    <frame x="739" y="61" width="1092" height="1018" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41647333" sideWeight="0.78555554" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3483146" sideWeight="0.21444444" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2516704" sideWeight="0.21444444" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20503597" sideWeight="0.45924452" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16758242" sideWeight="0.45273632" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25333333" sideWeight="0.54075545" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22461815" sideWeight="0.5472637" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39941692" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41647333" sideWeight="0.78555554" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27842227" sideWeight="0.21444444" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32247192" sideWeight="0.21444444" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2245283" sideWeight="0.45273632" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22551253" sideWeight="0.45924452" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22461815" sideWeight="0.5472637" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39941692" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25333333" sideWeight="0.54075545" order="2" side_tool="true" content_ui="tabs" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -967,270 +552,292 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/py06/tkinter1.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/py02/.idea/login1.py" />
-    <entry file="file://$PROJECT_DIR$/py02/for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py02/练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4482">
-          <caret line="249" column="0" lean-forward="false" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py02/grade.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py02/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py02/login1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py02/guess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/练习.txt" />
-    <entry file="file://$PROJECT_DIR$/py02/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py02/.idea/py02.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py02/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py02/猜拳.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/猜拳.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/hanshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/cp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="40" column="38" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/位置参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/cp_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/randpass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/print.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/mytest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/test.txt" />
-    <entry file="file://$PROJECT_DIR$/py03/print.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/cp_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/mytest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/shutil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="800" column="12" lean-forward="true" selection-start-line="800" selection-start-column="12" selection-end-line="800" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/keyword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py04/4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py04/5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py04/6.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py04/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py03/randpass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/py04/4.txt" />
+    <entry file="file://$PROJECT_DIR$/py04/5.txt" />
+    <entry file="file://$PROJECT_DIR$/py04/6.txt" />
+    <entry file="file://$PROJECT_DIR$/py04/1.txt" />
+    <entry file="file://$PROJECT_DIR$/py03/randpass.py" />
+    <entry file="file://$PROJECT_DIR$/py04/string1.py" />
+    <entry file="file://$PROJECT_DIR$/py04/adduser.py" />
+    <entry file="file://$PROJECT_DIR$/py04/user.py" />
+    <entry file="file://$PROJECT_DIR$/py04/hello.py" />
+    <entry file="file://$PROJECT_DIR$/py04/mytest.py" />
+    <entry file="file://$PROJECT_DIR$/py04/randpass.py" />
+    <entry file="file://$PROJECT_DIR$/py04/seq.py" />
+    <entry file="file://$PROJECT_DIR$/py04/add.py" />
+    <entry file="file://$PROJECT_DIR$/py04/hafa.py" />
+    <entry file="file://$PROJECT_DIR$/练习/重复.py" />
     <entry file="file:///usr/local/lib/python3.6/string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py04/string1.py">
+    <entry file="file://$PROJECT_DIR$/py04/zhai.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="120">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/zhai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="175" column="25" lean-forward="true" selection-start-line="175" selection-start-column="25" selection-end-line="175" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1437855905/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="262" column="4" lean-forward="false" selection-start-line="262" selection-start-column="4" selection-end-line="262" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py04/adduser.py">
+    <entry file="file://$PROJECT_DIR$/练习/time_sleep.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py04/user.py">
+    <entry file="file://$PROJECT_DIR$/练习/three-shu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/py_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/int_wen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/int-wen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/adduser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/stack1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/stac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/jingdutiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/raise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py05/jizhang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/jizhang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
-            <element signature="e#23#36#0" expanded="false" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py04/hello.py">
+    <entry file="file://$PROJECT_DIR$/py06/jizhang2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/tkinter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/myfun3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/math_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/math_game1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/math_game2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/tkinter1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/myfunc2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -1238,124 +845,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py04/zhai.py">
+    <entry file="file://$PROJECT_DIR$/py06/list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py04/mytest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="290">
+          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
           <folding>
-            <element signature="e#0#13#0" expanded="false" />
-            <marker date="1544429163579" expanded="true" signature="185:369" ph="..." />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py04/randpass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py04/seq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py04/add.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py04/hafa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习/重复.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习/int-wen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习/time_sleep.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习/int_wen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习/adduser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习/py_path.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习/three-shu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>

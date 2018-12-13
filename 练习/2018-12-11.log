@@ -1,0 +1,13 @@
+文件系统        容量  已用  可用 已用% 挂载点
+/dev/sda2       118G   76G   37G   68% /
+devtmpfs        7.7G     0  7.7G    0% /dev
+tmpfs           7.7G  220M  7.5G    3% /dev/shm
+tmpfs           7.7G   34M  7.7G    1% /run
+tmpfs           7.7G     0  7.7G    0% /sys/fs/cgroup
+/dev/sda1       197G  159G   28G   86% /var/lib/libvirt/images
+/dev/loop0      936M  936M     0  100% /var/ftp/ceph
+/dev/loop1      3.8G  3.8G     0  100% /var/www/html/rhel7
+/dev/loop2      169M  169M     0  100% /var/ftp/extras
+/dev/loop3      8.1G  8.1G     0  100% /var/ftp/system
+/dev/loop4      3.0G  3.0G     0  100% /var/ftp/HEL7OSP
+tmpfs           1.6G   52K  1.6G    1% /run/user/0
