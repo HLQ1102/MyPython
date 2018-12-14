@@ -1,8 +1,7 @@
-import shutil
 import random
 
+a = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 def randpass(n = 8):
-    a = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
     d = ''
     while True:
         d += random.choice(a)

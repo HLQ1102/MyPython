@@ -88,42 +88,14 @@ import sys, keyword, string
 #         #     print(line)
 #         #     print()
 #         print(gen(obj))
-#
-#
-#
-#
-#
-
-#
-#
-# import time
-# def show1():
-#     print('#' * 20, end='')
-#     n = 0
-#     while True:
-#         time.sleep(0.3)
-#         print('\r%s%s%s' % ('#' * n , '@', '#' * (19 - n)), end='')
-#         n += 1
-#         if n == 19:
-#             n = 0
-#
-# if __name__ == '__main__':
-#     show1()
-
-adict = dict()  # {}
-dict(['ab', 'cd'])
-bdict = dict([('name', 'bob'),('age', 25)])
-{}.fromkeys(['zhangsan', 'lisi', 'wangwu'], 11)
 
 
-# for key in bdict:
-#     print('%s: %s' % (key, bdict[key]))
-#
-# print("%(name)s: %(age)s" % bdict)
-#
-# bdict['name'] = 'tom'
-# bdict['email'] = 'tom@tedu.cn'
-#
-# del bdict['email']
-# bdict.pop('age')
-# bdict.clear()
+from functools import partial
+
+def hah(h, k):
+    print(h ,end='\t')
+    print(k)
+    print(h + k)
+if __name__ == '__main__':
+    bb = partial(hah,10)
+    bb(70)
