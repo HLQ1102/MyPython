@@ -6,17 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27e6b662-f784-466e-980f-e97509e5ed3e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/py07/books.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py07/check_md5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py07/mydate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py07/mygui.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py07/store.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py07/tar.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py07/test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py07/zhuangshiqi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py07/class1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/py07/myz.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/py04/randpass.py" afterPath="$PROJECT_DIR$/py04/randpass.py" />
-      <change beforePath="$PROJECT_DIR$/py06/list.py" afterPath="$PROJECT_DIR$/py06/list.py" />
+      <change beforePath="$PROJECT_DIR$/py07/tar.py" afterPath="$PROJECT_DIR$/py07/tar.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,6 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$zhuangshiqi1.coverage" NAME="zhuangshiqi1 Coverage Results" MODIFIED="1544868708035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$mytest__1_.coverage" NAME="mytest (1) Coverage Results" MODIFIED="1544409808654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
     <SUITE FILE_PATH="coverage/python$guess.coverage" NAME="guess Coverage Results" MODIFIED="1544173287772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/python$stack1.coverage" NAME="stack1 Coverage Results" MODIFIED="1544613075424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
@@ -48,6 +42,7 @@
     <SUITE FILE_PATH="coverage/python$11.coverage" NAME="11 Coverage Results" MODIFIED="1544533726374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
     <SUITE FILE_PATH="coverage/python$tkinter1.coverage" NAME="tkinter1 Coverage Results" MODIFIED="1544692929936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1544774856059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
+    <SUITE FILE_PATH="coverage/python$class1.coverage" NAME="class1 Coverage Results" MODIFIED="1544866127623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$hanshu.coverage" NAME="hanshu Coverage Results" MODIFIED="1544258548571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
     <SUITE FILE_PATH="coverage/python$jizhang2.coverage" NAME="jizhang2 Coverage Results" MODIFIED="1544686661793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1544750931661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
@@ -55,7 +50,7 @@
     <SUITE FILE_PATH="coverage/python$grade.coverage" NAME="grade Coverage Results" MODIFIED="1544179678189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/python$__1_.coverage" NAME="练习 (1) Coverage Results" MODIFIED="1544258469003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
     <SUITE FILE_PATH="coverage/python$three_shu.coverage" NAME="three-shu Coverage Results" MODIFIED="1544492640075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
-    <SUITE FILE_PATH="coverage/python$tar.coverage" NAME="tar Coverage Results" MODIFIED="1544794449063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
+    <SUITE FILE_PATH="coverage/python$tar.coverage" NAME="tar Coverage Results" MODIFIED="1544858433332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="重复 Coverage Results" MODIFIED="1544491728441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
     <SUITE FILE_PATH="coverage/python$hello.coverage" NAME="hello Coverage Results" MODIFIED="1544431927068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
     <SUITE FILE_PATH="coverage/python$cp.coverage" NAME="cp Coverage Results" MODIFIED="1544254865352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
@@ -66,6 +61,7 @@
     <SUITE FILE_PATH="coverage/python$hello__1_.coverage" NAME="hello (1) Coverage Results" MODIFIED="1544153599343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/python$13.coverage" NAME="13 Coverage Results" MODIFIED="1544661267779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/python$myfun3.coverage" NAME="myfun3 Coverage Results" MODIFIED="1544693603671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
+    <SUITE FILE_PATH="coverage/python$myz.coverage" NAME="myz Coverage Results" MODIFIED="1544857776679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$int_wen.coverage" NAME="int_wen Coverage Results" MODIFIED="1544496943007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
     <SUITE FILE_PATH="coverage/python$stac.coverage" NAME="stac Coverage Results" MODIFIED="1544580182914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/python$books.coverage" NAME="books Coverage Results" MODIFIED="1544777054917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
@@ -100,34 +96,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="zhuangshiqi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py07/zhuangshiqi.py">
+      <file leaf-file-name="myz.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py07/myz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            <state relative-caret-position="604">
+              <caret line="47" column="26" lean-forward="false" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jizhang2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py06/jizhang2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py07/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="53" column="14" lean-forward="false" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
-              <folding>
-                <element signature="e#40#54#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -165,7 +139,7 @@
       <file leaf-file-name="mygui.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py07/mygui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="216">
               <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -177,11 +151,31 @@
       <file leaf-file-name="tar.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/py07/tar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="74" column="14" lean-forward="true" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+            <state relative-caret-position="434">
+              <caret line="73" column="80" lean-forward="true" selection-start-line="73" selection-start-column="80" selection-end-line="73" selection-end-column="80" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py07/class1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhuangshiqi1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py07/zhuangshiqi1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -189,7 +183,7 @@
       <file leaf-file-name="check_md5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py07/check_md5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="288">
               <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -211,9 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/py03/mytest.py" />
-        <option value="$PROJECT_DIR$/py03/randpass.py" />
-        <option value="$PROJECT_DIR$/py04/6.txt" />
         <option value="$PROJECT_DIR$/py04/user.py" />
         <option value="$PROJECT_DIR$/py04/seq.py" />
         <option value="$PROJECT_DIR$/py04/string1.py" />
@@ -261,7 +252,10 @@
         <option value="$PROJECT_DIR$/py07/store.py" />
         <option value="$PROJECT_DIR$/py07/books.py" />
         <option value="$PROJECT_DIR$/py07/mydate.py" />
+        <option value="$PROJECT_DIR$/py07/myz.py" />
+        <option value="$PROJECT_DIR$/py07/class1.py" />
         <option value="$PROJECT_DIR$/py07/tar.py" />
+        <option value="$PROJECT_DIR$/py07/zhuangshiqi1.py" />
       </list>
     </option>
   </component>
@@ -272,9 +266,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="826" />
-    <option name="y" value="28" />
-    <option name="width" value="1092" />
+    <option name="x" value="784" />
+    <option name="y" value="54" />
+    <option name="width" value="1176" />
     <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -293,8 +287,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -305,17 +297,14 @@
             <path>
               <item name="我的python" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的python" type="462c0819:PsiDirectoryNode" />
-              <item name="py06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的python" type="462c0819:PsiDirectoryNode" />
               <item name="py07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,7 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tar">
+  <component name="RunManager" selected="Python.zhuangshiqi1">
     <configuration name="books" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,7 +354,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="check_md5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="class1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -378,32 +367,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py07/check_md5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py07/class1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="randpass" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="我的python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py04/randpass.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="store" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="myz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -416,7 +386,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py07/store.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py07/myz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -441,7 +411,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zhuangshiqi1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -454,26 +424,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py07/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py07/zhuangshiqi1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.check_md5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.store" />
-      <item index="3" class="java.lang.String" itemvalue="Python.books" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tar" />
+      <item index="0" class="java.lang.String" itemvalue="Python.books" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tar" />
+      <item index="2" class="java.lang.String" itemvalue="Python.zhuangshiqi1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.myz" />
+      <item index="4" class="java.lang.String" itemvalue="Python.class1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tar" />
-        <item index="1" class="java.lang.String" itemvalue="Python.books" />
-        <item index="2" class="java.lang.String" itemvalue="Python.store" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.check_md5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.zhuangshiqi1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.class1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tar" />
+        <item index="3" class="java.lang.String" itemvalue="Python.myz" />
+        <item index="4" class="java.lang.String" itemvalue="Python.books" />
       </list>
     </recent_temporary>
   </component>
@@ -494,15 +464,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="826" y="28" width="1092" height="1018" extended-state="0" />
+    <frame x="784" y="54" width="1176" height="1018" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6694139" sideWeight="0.7875458" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16926503" sideWeight="0.21245421" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27171493" sideWeight="0.21245421" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16758242" sideWeight="0.45273632" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15561225" sideWeight="0.45273632" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -564,9 +535,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/py04/mytest.py" />
-    <entry file="file://$PROJECT_DIR$/py04/seq.py" />
-    <entry file="file://$PROJECT_DIR$/py04/add.py" />
     <entry file="file://$PROJECT_DIR$/py04/hafa.py" />
     <entry file="file://$PROJECT_DIR$/练习/重复.py" />
     <entry file="file:///usr/local/lib/python3.6/string.py">
@@ -810,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="95" column="20" lean-forward="true" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,20 +788,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py07/check_md5.py">
+    <entry file="file://$PROJECT_DIR$/py07/zhuangshiqi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/jizhang2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/py07/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="53" column="14" lean-forward="false" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        <state relative-caret-position="954">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
             <element signature="e#40#54#0" expanded="true" />
           </folding>
@@ -857,22 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py07/zhuangshiqi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1437855905/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="809" column="8" lean-forward="false" selection-start-line="809" selection-start-column="8" selection-end-line="809" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/py07/mydate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -883,7 +839,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/py07/mygui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="216">
           <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
@@ -891,20 +847,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py06/jizhang2.py">
+    <entry file="file://$PROJECT_DIR$/py07/check_md5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        <state relative-caret-position="288">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py07/myz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="47" column="26" lean-forward="false" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1437855905/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="809" column="8" lean-forward="false" selection-start-line="809" selection-start-column="8" selection-end-line="809" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py07/class1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py07/zhuangshiqi1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/py07/tar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="74" column="14" lean-forward="true" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+        <state relative-caret-position="434">
+          <caret line="73" column="80" lean-forward="true" selection-start-line="73" selection-start-column="80" selection-end-line="73" selection-end-column="80" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
