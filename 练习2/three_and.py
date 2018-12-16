@@ -9,15 +9,18 @@ def three(nums):
     for i in range(len(nums)):
         a = nums[i]
         for j in range(len(nums)):
-            if j == i:
+            if j <= i:
                 continue
             b = nums[j]
             for k in range(len(nums)):
-                if j == i or j == k or i == k:
+                if k <= j:
                     continue
                 c = nums[k]
                 if a + b + c == 0:
-                    bb.append([a, b, c])
+                    x = [a, b, c]
+                    x.sort()
+                    if x not in bb:
+                        bb.append(x)
     bao = bb
     return bao
 
