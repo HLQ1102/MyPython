@@ -9,7 +9,9 @@ class Book:
     def __call__(self):
         print('《%s》 is written by %s' % (self.title, self.author))
 
+
 if __name__ == '__main__':
     aa = Book('Core Python', 'Wesley')
     print(aa)
     aa()
+

@@ -5,6 +5,7 @@ import pickle as pic
 import tarfile
 import time
 
+
 def tarfact(tarfls, tarfname):
     # tar = tarfile.open('/tmp/per.tar.gz', 'w:gz')
     tar = tarfile.open(tarfname, 'w:gz')
@@ -19,6 +20,8 @@ def bianlifile():
         for file in files:
             a.append(os.path.join(path, file))
     return a
+
+
 # 使用递归的方法遍历文件夹
 # def list_files(path, ls=[]):
 #     if os.path.isdir(path):
@@ -30,8 +33,6 @@ def bianlifile():
 #                 # print(ls[-1])
 #             list_files(fname)
 #     return ls
-
-
 
 
 def check_md5(fls):
@@ -49,7 +50,8 @@ def check_md5(fls):
         pic.dump(a, f)
     return 'data-%s.data' % time.strftime('%Y-%m-%d')
 
-def BiJiao(newf, oldf = 'data.data'):
+
+def BiJiao(newf, oldf='data.data'):
     bianhua = []
     with open(oldf, 'rb') as of:
         old = pic.load(of)
@@ -62,6 +64,7 @@ def BiJiao(newf, oldf = 'data.data'):
             if new[i] != old[i]:
                 bianhua.append(i)
     return bianhua
+
 
 def show_menu():
     today = datetime.datetime.today()
@@ -76,6 +79,7 @@ def show_menu():
         bianhua = BiJiao(today_data, yesterday_data)
         tarfact(bianhua, tarfname)
 
+
 if __name__ == '__main__':
     show_menu()
 
@@ -83,7 +87,6 @@ if __name__ == '__main__':
     # bb = list_files('/tmp/demo')
     # for i in bb:
     #     print(i)
-
 
     # for i in b:
     #     print(i)
