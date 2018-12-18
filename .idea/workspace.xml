@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/py06/myfunc2.py" line="25" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="27e6b662-f784-466e-980f-e97509e5ed3e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py01/fmt_tcp.serv.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py01/fork_bian.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py01/fork_tcp_server.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py01/mt_ping.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py01/tcp_time_serv.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py01/time_it.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py01/time_it2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py01/time_it3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py01/zb.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/练习2/fork_ping.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/练习2/myfork.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +28,7 @@
     <SUITE FILE_PATH="coverage/python$guess.coverage" NAME="guess Coverage Results" MODIFIED="1544173287772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/python$stack1.coverage" NAME="stack1 Coverage Results" MODIFIED="1544613075424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/python$raise.coverage" NAME="raise Coverage Results" MODIFIED="1544605404347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/MyPython$ping.coverage" NAME="ping Coverage Results" MODIFIED="1545102421249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
     <SUITE FILE_PATH="coverage/python$login1.coverage" NAME="login1 Coverage Results" MODIFIED="1544164547828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/python$zhai__1_.coverage" NAME="zhai (1) Coverage Results" MODIFIED="1544577942506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1544752900746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
@@ -35,10 +44,12 @@
     <SUITE FILE_PATH="coverage/python$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1544405277482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
     <SUITE FILE_PATH="coverage/python$gen.coverage" NAME="gen Coverage Results" MODIFIED="1544693665968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$hafa.coverage" NAME="hafa Coverage Results" MODIFIED="1544490724651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
+    <SUITE FILE_PATH="coverage/MyPython$fork_tcp_server.coverage" NAME="fork_tcp_server Coverage Results" MODIFIED="1545123227395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
     <SUITE FILE_PATH="coverage/python$math_game2.coverage" NAME="math_game2 Coverage Results" MODIFIED="1544699055146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$11.coverage" NAME="11 Coverage Results" MODIFIED="1544533726374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
     <SUITE FILE_PATH="coverage/python$tkinter1.coverage" NAME="tkinter1 Coverage Results" MODIFIED="1544692929936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/MyPython$zhengze.coverage" NAME="zhengze Coverage Results" MODIFIED="1545034517017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py08" />
+    <SUITE FILE_PATH="coverage/MyPython$fork_ping.coverage" NAME="fork_ping Coverage Results" MODIFIED="1545135874440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习2" />
     <SUITE FILE_PATH="coverage/python$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1544774856059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$class1.coverage" NAME="class1 Coverage Results" MODIFIED="1544866127623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/MyPython$socket.coverage" NAME="socket Coverage Results" MODIFIED="1545039374651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/usr/local/lib/python3.6" />
@@ -60,18 +71,22 @@
     <SUITE FILE_PATH="coverage/python$store.coverage" NAME="store Coverage Results" MODIFIED="1544776152148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$mygui.coverage" NAME="mygui Coverage Results" MODIFIED="1544757157940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$myfunc2.coverage" NAME="myfunc2 Coverage Results" MODIFIED="1544751013388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
+    <SUITE FILE_PATH="coverage/MyPython$tcp_time_serv.coverage" NAME="tcp_time_serv Coverage Results" MODIFIED="1545113770927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
     <SUITE FILE_PATH="coverage/python$hello__1_.coverage" NAME="hello (1) Coverage Results" MODIFIED="1544153599343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/python$13.coverage" NAME="13 Coverage Results" MODIFIED="1544661267779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/python$myfun3.coverage" NAME="myfun3 Coverage Results" MODIFIED="1544693603671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$myz.coverage" NAME="myz Coverage Results" MODIFIED="1544857776679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$int_wen.coverage" NAME="int_wen Coverage Results" MODIFIED="1544496943007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
     <SUITE FILE_PATH="coverage/python$stac.coverage" NAME="stac Coverage Results" MODIFIED="1544580182914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/MyPython$time_it3.coverage" NAME="time_it3 Coverage Results" MODIFIED="1545134296078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base-python/py08" />
+    <SUITE FILE_PATH="coverage/MyPython$zb.coverage" NAME="zb Coverage Results" MODIFIED="1545113037403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
     <SUITE FILE_PATH="coverage/python$books.coverage" NAME="books Coverage Results" MODIFIED="1544777054917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$check_md5.coverage" NAME="check_md5 Coverage Results" MODIFIED="1544761780533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$dict.coverage" NAME="dict Coverage Results" MODIFIED="1544613055678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/python$zhai.coverage" NAME="zhai Coverage Results" MODIFIED="1544577724407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
     <SUITE FILE_PATH="coverage/MyPython$tcp_tim_serv.coverage" NAME="tcp_tim_serv Coverage Results" MODIFIED="1545051676602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py08" />
     <SUITE FILE_PATH="coverage/python$jizhang.coverage" NAME="jizhang Coverage Results" MODIFIED="1544621788165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
+    <SUITE FILE_PATH="coverage/MyPython$fork_bian.coverage" NAME="fork_bian Coverage Results" MODIFIED="1545101255128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
     <SUITE FILE_PATH="coverage/python$string1.coverage" NAME="string1 Coverage Results" MODIFIED="1544427181801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
     <SUITE FILE_PATH="coverage/MyPython$tcp_cli.coverage" NAME="tcp_cli Coverage Results" MODIFIED="1545049920824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py08" />
     <SUITE FILE_PATH="coverage/python$time_sleep.coverage" NAME="time_sleep Coverage Results" MODIFIED="1544494998649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
@@ -81,12 +96,16 @@
     <SUITE FILE_PATH="coverage/python$py_path.coverage" NAME="py_path Coverage Results" MODIFIED="1544498435256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
     <SUITE FILE_PATH="coverage/python$zhuangshiqi.coverage" NAME="zhuangshiqi Coverage Results" MODIFIED="1544753357048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$while.coverage" NAME="while Coverage Results" MODIFIED="1544176068450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
+    <SUITE FILE_PATH="coverage/MyPython$mt_ping.coverage" NAME="mt_ping Coverage Results" MODIFIED="1545122170042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
     <SUITE FILE_PATH="coverage/python$cp_func.coverage" NAME="cp_func Coverage Results" MODIFIED="1544260593270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py03" />
+    <SUITE FILE_PATH="coverage/MyPython$time_it.coverage" NAME="time_it Coverage Results" MODIFIED="1545118431869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
+    <SUITE FILE_PATH="coverage/MyPython$fmt_tcp_serv.coverage" NAME="fmt_tcp.serv Coverage Results" MODIFIED="1545122345625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
     <SUITE FILE_PATH="coverage/python$shutil.coverage" NAME="shutil Coverage Results" MODIFIED="1544407830322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/usr/local/lib/python3.6" />
     <SUITE FILE_PATH="coverage/python$randpass.coverage" NAME="randpass Coverage Results" MODIFIED="1544749742624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
     <SUITE FILE_PATH="coverage/MyPython$three_and.coverage" NAME="three_and Coverage Results" MODIFIED="1545029741139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习2" />
     <SUITE FILE_PATH="coverage/MyPython$udp_cli.coverage" NAME="udp_cli Coverage Results" MODIFIED="1545046983122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py08" />
     <SUITE FILE_PATH="coverage/MyPython$books.coverage" NAME="books Coverage Results" MODIFIED="1544969120437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
+    <SUITE FILE_PATH="coverage/MyPython$time_it2.coverage" NAME="time_it2 Coverage Results" MODIFIED="1545125166864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base-python/py08" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -105,52 +124,118 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="zhengze.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py08/zhengze.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tcp_tim_cli.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py08/tcp_tim_cli.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tcp_serv.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/py08/tcp_serv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="udp_serv.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py08/udp_serv.py">
+      <file leaf-file-name="fork_bian.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py01/fork_bian.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tcp_cli.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py08/tcp_cli.py">
+      <file leaf-file-name="time_it.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py01/time_it.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fork_ping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py01/fork_ping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mt_ping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py01/mt_ping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fork_tcp_server.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py01/fork_tcp_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tcp_serv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base-python/py08/tcp_serv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fork_ping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习2/fork_ping.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding />
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myfork.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/练习2/myfork.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time_it2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py01/time_it2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time_it3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py01/time_it3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -168,20 +253,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/练习/time_sleep.py" />
-        <option value="$PROJECT_DIR$/练习/py_path.py" />
-        <option value="$PROJECT_DIR$/练习/test.py" />
-        <option value="$PROJECT_DIR$/练习/11.py" />
-        <option value="$PROJECT_DIR$/py05/zhai.py" />
-        <option value="$PROJECT_DIR$/py05/stac.py" />
-        <option value="$PROJECT_DIR$/py05/stack1.py" />
-        <option value="$PROJECT_DIR$/py05/dict.py" />
-        <option value="$PROJECT_DIR$/py05/jingdutiao.py" />
-        <option value="$PROJECT_DIR$/py05/try.py" />
-        <option value="$PROJECT_DIR$/py05/raise.py" />
-        <option value="$PROJECT_DIR$/py05/os.py" />
-        <option value="$PROJECT_DIR$/py05/test.py" />
-        <option value="$PROJECT_DIR$/py05/jizhang.py" />
         <option value="$PROJECT_DIR$/py05/13.py" />
         <option value="$PROJECT_DIR$/py06/jizhang.py" />
         <option value="$PROJECT_DIR$/py06/jizhang2.py" />
@@ -219,6 +290,20 @@
         <option value="$PROJECT_DIR$/py08/udp_cli.py" />
         <option value="$PROJECT_DIR$/py08/tcp_tim_cli.py" />
         <option value="$PROJECT_DIR$/py08/tcp_tim_serv.py" />
+        <option value="$PROJECT_DIR$/devops/py01/tcp_time_serv.py" />
+        <option value="$PROJECT_DIR$/devops/py01/fork_bian.py" />
+        <option value="$PROJECT_DIR$/devops/py01/ping.py" />
+        <option value="$PROJECT_DIR$/devops/py01/zb.py" />
+        <option value="$PROJECT_DIR$/devops/py01/time_it.py" />
+        <option value="$PROJECT_DIR$/devops/py01/fork_ping.py" />
+        <option value="$PROJECT_DIR$/devops/py01/mt_ping.py" />
+        <option value="$PROJECT_DIR$/devops/py01/fmt_tcp.serv.py" />
+        <option value="$PROJECT_DIR$/devops/py01/fork_tcp_server.py" />
+        <option value="$PROJECT_DIR$/base-python/py08/time_it2.py" />
+        <option value="$PROJECT_DIR$/base-python/py08/time_it3.py" />
+        <option value="$PROJECT_DIR$/devops/py01/time_it3.py" />
+        <option value="$PROJECT_DIR$/练习2/fork_ping.py" />
+        <option value="$PROJECT_DIR$/练习2/myfork.py" />
       </list>
     </option>
   </component>
@@ -232,10 +317,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="811" />
     <option name="y" value="28" />
-    <option name="width" value="1069" />
-    <option name="height" value="927" />
+    <option name="width" value="1098" />
+    <option name="height" value="998" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -253,6 +337,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,11 +345,25 @@
               <item name="MyPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyPython" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPython" type="462c0819:PsiDirectoryNode" />
+              <item name="base-python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPython" type="462c0819:PsiDirectoryNode" />
+              <item name="devops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPython" type="462c0819:PsiDirectoryNode" />
+              <item name="练习2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -275,13 +374,14 @@
     <property name="settings.editor.splitter.proportion" value="0.2877767" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/devops/py01" />
+      <recent name="$PROJECT_DIR$/py08" />
+      <recent name="$PROJECT_DIR$/py07" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/我的代码保存" />
       <recent name="$PROJECT_DIR$/py02" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/py08" />
-      <recent name="$PROJECT_DIR$/py07" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -296,116 +396,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tcp_tim_serv">
-    <configuration name="tcp_cli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.fork_ping">
+    <configuration name="fmt_tcp.serv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/py01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py08/tcp_cli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/py01/fmt_tcp.serv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tcp_tim_cli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fork_ping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py08/tcp_tim_cli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习2/fork_ping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tcp_tim_serv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fork_tcp_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/py01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py08/tcp_tim_serv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/py01/fork_tcp_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="udp_cli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="time_it2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base-python/py08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py08/udp_cli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/py01/time_it2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="udp_serv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="time_it3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base-python/py08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py08/udp_serv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/py01/time_it3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.udp_serv" />
-      <item index="1" class="java.lang.String" itemvalue="Python.udp_cli" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tcp_tim_serv" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tcp_tim_cli" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tcp_cli" />
+      <item index="0" class="java.lang.String" itemvalue="Python.fmt_tcp.serv" />
+      <item index="1" class="java.lang.String" itemvalue="Python.fork_tcp_server" />
+      <item index="2" class="java.lang.String" itemvalue="Python.time_it2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.time_it3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fork_ping" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tcp_tim_serv" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tcp_tim_cli" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tcp_cli" />
-        <item index="3" class="java.lang.String" itemvalue="Python.udp_cli" />
-        <item index="4" class="java.lang.String" itemvalue="Python.udp_serv" />
+        <item index="0" class="java.lang.String" itemvalue="Python.fork_ping" />
+        <item index="1" class="java.lang.String" itemvalue="Python.time_it3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.time_it2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fork_tcp_server" />
+        <item index="4" class="java.lang.String" itemvalue="Python.fmt_tcp.serv" />
       </list>
     </recent_temporary>
   </component>
@@ -426,15 +526,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="811" y="28" width="1069" height="927" extended-state="0" />
+    <frame x="0" y="28" width="1098" height="998" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961586" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3029613" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21702525" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21129327" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -474,98 +575,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/connectionpool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7714">
-          <caret line="406" column="29" lean-forward="false" selection-start-line="406" selection-start-column="23" selection-end-line="406" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/requests/adapters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6023">
-          <caret line="317" column="29" lean-forward="false" selection-start-line="317" selection-start-column="23" selection-end-line="317" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/requests/sessions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13452">
-          <caret line="708" column="29" lean-forward="false" selection-start-line="708" selection-start-column="23" selection-end-line="708" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_internal/download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4693">
-          <caret line="247" column="29" lean-forward="false" selection-start-line="247" selection-start-column="23" selection-end-line="247" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6175">
-          <caret line="325" column="29" lean-forward="false" selection-start-line="325" selection-start-column="23" selection-end-line="325" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/response.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9690">
-          <caret line="510" column="29" lean-forward="false" selection-start-line="510" selection-start-column="23" selection-end-line="510" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/setuptools/ssl_support.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4427">
-          <caret line="233" column="33" lean-forward="false" selection-start-line="233" selection-start-column="27" selection-end-line="233" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/wheel/wheelfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2793">
-          <caret line="147" column="29" lean-forward="false" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/chardet/universaldetector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4161">
-          <caret line="219" column="29" lean-forward="false" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/adapter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2470">
-          <caret line="130" column="29" lean-forward="false" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/tarfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35397">
-          <caret line="1863" column="29" lean-forward="false" selection-start-line="1863" selection-start-column="23" selection-end-line="1863" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/cache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py01/venv/lib/python3.6/site-packages/pip/_vendor/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17860">
-          <caret line="940" column="29" lean-forward="false" selection-start-line="940" selection-start-column="23" selection-end-line="940" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/fileinput.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/os.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -576,23 +585,11 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tarfile.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/multiprocessing/dummy/connection.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/adapters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5928">
-          <caret line="312" column="29" lean-forward="false" selection-start-line="312" selection-start-column="23" selection-end-line="312" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/adapters.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/asyncio/selector_events.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/selectors.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/chunk.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connectionpool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="409" column="29" lean-forward="false" selection-start-line="409" selection-start-column="23" selection-end-line="409" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connectionpool.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/io.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -607,65 +604,14 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/distutils/text_file.py" />
     <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1128508806/builtins.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/multiprocessing/pool.py" />
-    <entry file="file://$PROJECT_DIR$/py07/class1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py07/books.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py06/tkinter1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py06/myfun3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py06/jizhang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py06/jizhang2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py06/list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-320">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py06/py08">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/py07/class1.py" />
+    <entry file="file://$PROJECT_DIR$/py07/books.py" />
+    <entry file="file://$PROJECT_DIR$/py06/tkinter1.py" />
+    <entry file="file://$PROJECT_DIR$/py06/myfun3.py" />
+    <entry file="file://$PROJECT_DIR$/py06/jizhang.py" />
+    <entry file="file://$PROJECT_DIR$/py06/jizhang2.py" />
+    <entry file="file://$PROJECT_DIR$/py06/list.py" />
+    <entry file="file://$PROJECT_DIR$/py06/py08" />
     <entry file="file://$PROJECT_DIR$/练习2/three_and.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -673,13 +619,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py06/gen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/py06/gen.py" />
     <entry file="file:///usr/local/lib/python3.6/socket.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -688,74 +628,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py08/udp_cli.py">
+    <entry file="file://$PROJECT_DIR$/py08/udp_cli.py" />
+    <entry file="file://$PROJECT_DIR$/py08/fenxi_log.py" />
+    <entry file="file://$PROJECT_DIR$/py08/backup.py" />
+    <entry file="file://$PROJECT_DIR$/py08/tcp_tim_serv.py" />
+    <entry file="file://$PROJECT_DIR$/py08/zhengze.py" />
+    <entry file="file://$PROJECT_DIR$/py08/tcp_tim_cli.py" />
+    <entry file="file://$PROJECT_DIR$/py08/tcp_cli.py" />
+    <entry file="file://$PROJECT_DIR$/py08/udp_serv.py" />
+    <entry file="file://$PROJECT_DIR$/py08/tcp_serv.py" />
+    <entry file="file://$PROJECT_DIR$/devops/py01/zb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="198">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py08/fenxi_log.py">
+    <entry file="file://$PROJECT_DIR$/devops/py01/tcp_time_serv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="375">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py08/backup.py">
+    <entry file="file://$PROJECT_DIR$/devops/py01/fork_bian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="47" column="23" lean-forward="false" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        <state relative-caret-position="306">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py08/tcp_tim_serv.py">
+    <entry file="file://$PROJECT_DIR$/devops/py01/ping.py" />
+    <entry file="file://$PROJECT_DIR$/devops/py01/fork_ping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="126">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py01/fmt_tcp.serv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py01/mt_ping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py01/time_it.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py01/fork_tcp_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py08/zhengze.py">
+    <entry file="file://$PROJECT_DIR$/devops/py01/time_it2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py01/time_it3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base-python/py08/tcp_serv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py08/tcp_tim_cli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py08/tcp_cli.py">
+    <entry file="file://$PROJECT_DIR$/练习2/fork_ping.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding />
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py08/udp_serv.py">
+    <entry file="file://$PROJECT_DIR$/练习2/myfork.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py08/tcp_serv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
