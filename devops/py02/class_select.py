@@ -31,7 +31,7 @@ cursor = conn.cursor()      # 创建游标
 # awards INT,
 # PRIMARY KEY(auto_id),
 # FOREIGN KEY(emp_id) REFERENCES employers(emp_id))'''  # 外键
-# cursor.execute(create_sal)
+# cursor.execute(create_sal)j
 
 insert_emp = 'insert into employers VALUE(%s, %s, %s, %s, %s, %s)'
 wjg = (10, '王建港', 'man', 'wjg@tedu.com',      '18299984673', 2)

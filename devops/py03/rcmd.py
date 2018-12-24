@@ -16,3 +16,7 @@ def rscmd(host, user, passwd, cmd, port=22):
 
 if __name__ == '__main__':
     rscmd(host='192.168.1.11', user='root', passwd='123456', cmd='id root;id xiao')
+
+
+
+

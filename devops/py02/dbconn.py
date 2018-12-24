@@ -8,7 +8,7 @@ engine = create_engine(  # 创建mysql的引擎
     # mysql+pymysql://用户名：密码@数据库地址/数据库/?charset=指定编码方式(允许中文输入)
     'mysql+pymysql://root:123456@127.0.0.1/tedu1807?charset=utf8',
     encoding='utf8',  # 编码
-    echo=False  # 在终端打印日志，生产环境要设置为False，默认值为false
+    echo=True  # 在终端打印日志，生产环境要设置为False，默认值为false
 )
 Session = sessionmaker(bind=engine)   # 将会话绑定到引擎
 Base = declarative_base()
