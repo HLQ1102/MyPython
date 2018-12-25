@@ -1,0 +1,5 @@
+[name_local]
+name=system
+baseurl=ftp://192.168.1.254/system
+enabled=1
+gpgcheck=0

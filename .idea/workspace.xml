@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27e6b662-f784-466e-980f-e97509e5ed3e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py06/AAAnsible.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py06/myAnsible.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py06/mytest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py06/test.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/devops/py01/ping.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/devops/py02/query_sql.py" afterPath="" />
@@ -23,6 +27,7 @@
     <SUITE FILE_PATH="coverage/MyPython$ping.coverage" NAME="ping Coverage Results" MODIFIED="1545102421249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
     <SUITE FILE_PATH="coverage/python$login1.coverage" NAME="login1 Coverage Results" MODIFIED="1544164547828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1544752900746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/MyPython$myAnsible.coverage" NAME="myAnsible Coverage Results" MODIFIED="1545724787580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py06" />
     <SUITE FILE_PATH="coverage/python$try.coverage" NAME="try Coverage Results" MODIFIED="1544604436072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/MyPython$moni_url.coverage" NAME="moni_url Coverage Results" MODIFIED="1545375678855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py03" />
     <SUITE FILE_PATH="coverage/MyPython$udp_serv.coverage" NAME="udp_serv Coverage Results" MODIFIED="1545046979684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py08" />
@@ -97,6 +102,7 @@
     <SUITE FILE_PATH="coverage/MyPython$fenxi_log.coverage" NAME="fenxi_log Coverage Results" MODIFIED="1545034820306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py08" />
     <SUITE FILE_PATH="coverage/python$tar.coverage" NAME="tar Coverage Results" MODIFIED="1544858433332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="重复 Coverage Results" MODIFIED="1544491728441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/MyPython$AAAnsible.coverage" NAME="AAAnsible Coverage Results" MODIFIED="1545725719978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py06" />
     <SUITE FILE_PATH="coverage/MyPython$mygui.coverage" NAME="mygui Coverage Results" MODIFIED="1544876223666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
     <SUITE FILE_PATH="coverage/python$math_game1.coverage" NAME="math_game1 Coverage Results" MODIFIED="1544682909109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py06" />
     <SUITE FILE_PATH="coverage/python$store.coverage" NAME="store Coverage Results" MODIFIED="1544776152148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py07" />
@@ -144,7 +150,54 @@
     <favorites_list name="我的python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="myAnsible.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py06/myAnsible.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding>
+                <element signature="e#23#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AAAnsible.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py06/AAAnsible.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mytest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py06/mytest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/devops/py06/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -164,10 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/devops/py01/tcp_time_serv.py" />
-        <option value="$PROJECT_DIR$/devops/py01/fork_bian.py" />
-        <option value="$PROJECT_DIR$/devops/py01/ping.py" />
-        <option value="$PROJECT_DIR$/devops/py01/zb.py" />
         <option value="$PROJECT_DIR$/devops/py01/time_it.py" />
         <option value="$PROJECT_DIR$/devops/py01/fork_ping.py" />
         <option value="$PROJECT_DIR$/devops/py01/mt_ping.py" />
@@ -215,6 +264,10 @@
         <option value="$PROJECT_DIR$/devops/py05/deploy_web.py" />
         <option value="$PROJECT_DIR$/../nsd_2018/nsd1807/devops/day05/deploy_web.py" />
         <option value="$PROJECT_DIR$/../nsd_2018/nsd1807/devops/day04/day04.txt" />
+        <option value="$PROJECT_DIR$/devops/py06/myAnsible.py" />
+        <option value="$PROJECT_DIR$/devops/py06/AAAnsible.py" />
+        <option value="$PROJECT_DIR$/devops/py06/test.py" />
+        <option value="$PROJECT_DIR$/devops/py06/mytest.py" />
       </list>
     </option>
   </component>
@@ -228,7 +281,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="686" />
+    <option name="x" value="685" />
     <option name="y" value="28" />
     <option name="width" value="1234" />
     <option name="height" value="998" />
@@ -290,6 +343,12 @@
               <item name="MyPython" type="462c0819:PsiDirectoryNode" />
               <item name="devops" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPython" type="462c0819:PsiDirectoryNode" />
+              <item name="devops" type="462c0819:PsiDirectoryNode" />
+              <item name="py06" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -300,7 +359,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="settings.editor.splitter.proportion" value="0.27889907" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -327,7 +386,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.access_zabbix">
+  <component name="RunManager" selected="Python.AAAnsible">
+    <configuration name="AAAnsible" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/py06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="我的python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/py06/AAAnsible.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="access_zabbix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,39 +444,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="smail2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="myAnsible" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/py04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/py06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/py04/smail2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="wget_my" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="我的python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习2/wget_my.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/py06/myAnsible.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -424,19 +483,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.wget_my" />
-      <item index="1" class="java.lang.String" itemvalue="Python.smail2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.yinyong" />
-      <item index="3" class="java.lang.String" itemvalue="Python.dingd_jq" />
-      <item index="4" class="java.lang.String" itemvalue="Python.access_zabbix" />
+      <item index="0" class="java.lang.String" itemvalue="Python.yinyong" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dingd_jq" />
+      <item index="2" class="java.lang.String" itemvalue="Python.access_zabbix" />
+      <item index="3" class="java.lang.String" itemvalue="Python.myAnsible" />
+      <item index="4" class="java.lang.String" itemvalue="Python.AAAnsible" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.access_zabbix" />
-        <item index="1" class="java.lang.String" itemvalue="Python.dingd_jq" />
-        <item index="2" class="java.lang.String" itemvalue="Python.yinyong" />
-        <item index="3" class="java.lang.String" itemvalue="Python.smail2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.wget_my" />
+        <item index="0" class="java.lang.String" itemvalue="Python.AAAnsible" />
+        <item index="1" class="java.lang.String" itemvalue="Python.myAnsible" />
+        <item index="2" class="java.lang.String" itemvalue="Python.access_zabbix" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dingd_jq" />
+        <item index="4" class="java.lang.String" itemvalue="Python.yinyong" />
       </list>
     </recent_temporary>
   </component>
@@ -457,15 +516,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="686" y="28" width="1234" height="998" extended-state="0" />
+    <frame x="685" y="28" width="1234" height="998" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37471527" sideWeight="0.5032415" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37471527" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2425968" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21799028" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21799028" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -509,48 +569,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/devops/py01/fork_tcp_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/devops/py01/time_it2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/devops/py01/time_it3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base-python/py08/tcp_serv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习2/fork_ping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习2/myfork.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/devops/py01/fork_bian.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -857,5 +875,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py06/myansi/myhosts.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py06/myansi/ansible.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py06/myAnsible.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py06/AAAnsible.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py06/mytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py06/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

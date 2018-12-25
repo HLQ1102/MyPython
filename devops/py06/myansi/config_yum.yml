@@ -1,0 +1,8 @@
+---
+- name: upload yum config file
+  hosts: all
+  tasls:
+    - name: 
+      copy:
+        src: system.repo
+        dest: /etc/yum.repos.d/system.repo
