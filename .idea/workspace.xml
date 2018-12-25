@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27e6b662-f784-466e-980f-e97509e5ed3e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py06/AAAnsible.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py06/myAnsible.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py06/mytest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/devops/py06/test.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/devops/py01/ping.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/devops/py02/query_sql.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/devops/py06/myAnsible.py" afterPath="$PROJECT_DIR$/devops/py06/myAnsible.py" />
+      <change beforePath="$PROJECT_DIR$/devops/py06/myansi/hosts" afterPath="$PROJECT_DIR$/devops/py06/myansi/hosts" />
+      <change beforePath="$PROJECT_DIR$/devops/py06/test.py" afterPath="$PROJECT_DIR$/devops/py06/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,6 +58,7 @@
     <SUITE FILE_PATH="coverage/python$jizhang.coverage" NAME="jizhang Coverage Results" MODIFIED="1544621788165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py05" />
     <SUITE FILE_PATH="coverage/MyPython$fork_bian.coverage" NAME="fork_bian Coverage Results" MODIFIED="1545101255128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py01" />
     <SUITE FILE_PATH="coverage/MyPython$tcp_cli.coverage" NAME="tcp_cli Coverage Results" MODIFIED="1545049920824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py08" />
+    <SUITE FILE_PATH="coverage/MyPython$test.coverage" NAME="test Coverage Results" MODIFIED="1545728062963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/py06" />
     <SUITE FILE_PATH="coverage/python$time_sleep.coverage" NAME="time_sleep Coverage Results" MODIFIED="1544494998649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
     <SUITE FILE_PATH="coverage/python$randpass__1_.coverage" NAME="randpass (1) Coverage Results" MODIFIED="1544408636276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py04" />
     <SUITE FILE_PATH="coverage/MyPython$tcp_tim_cli.coverage" NAME="tcp_tim_cli Coverage Results" MODIFIED="1545050016129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py08" />
@@ -151,11 +150,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myAnsible.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="myAnsible.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/devops/py06/myAnsible.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="-271">
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
               <folding>
                 <element signature="e#23#36#0" expanded="true" />
               </folding>
@@ -166,9 +165,11 @@
       <file leaf-file-name="AAAnsible.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/devops/py06/AAAnsible.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <folding>
+                <element signature="e#26#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,23 +177,31 @@
       <file leaf-file-name="mytest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/devops/py06/mytest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py06/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
               <folding>
-                <element signature="e#0#34#0" expanded="true" />
+                <element signature="e#24#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/devops/py06/test.py">
+      <file leaf-file-name="remote_copy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/py06/ansi_mods/remote_copy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -264,10 +273,10 @@
         <option value="$PROJECT_DIR$/devops/py05/deploy_web.py" />
         <option value="$PROJECT_DIR$/../nsd_2018/nsd1807/devops/day05/deploy_web.py" />
         <option value="$PROJECT_DIR$/../nsd_2018/nsd1807/devops/day04/day04.txt" />
-        <option value="$PROJECT_DIR$/devops/py06/myAnsible.py" />
         <option value="$PROJECT_DIR$/devops/py06/AAAnsible.py" />
-        <option value="$PROJECT_DIR$/devops/py06/test.py" />
         <option value="$PROJECT_DIR$/devops/py06/mytest.py" />
+        <option value="$PROJECT_DIR$/devops/py06/test.py" />
+        <option value="$PROJECT_DIR$/devops/py06/myAnsible.py" />
       </list>
     </option>
   </component>
@@ -281,9 +290,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="685" />
+    <option name="x" value="297" />
     <option name="y" value="28" />
-    <option name="width" value="1234" />
+    <option name="width" value="1623" />
     <option name="height" value="998" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -359,7 +368,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.27889907" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -386,7 +395,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AAAnsible">
+  <component name="RunManager" selected="Python.test">
     <configuration name="AAAnsible" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -463,39 +472,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="yinyong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/py04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/py06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="我的python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/py04/yinyong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/py06/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.yinyong" />
-      <item index="1" class="java.lang.String" itemvalue="Python.dingd_jq" />
-      <item index="2" class="java.lang.String" itemvalue="Python.access_zabbix" />
-      <item index="3" class="java.lang.String" itemvalue="Python.myAnsible" />
-      <item index="4" class="java.lang.String" itemvalue="Python.AAAnsible" />
+      <item index="0" class="java.lang.String" itemvalue="Python.dingd_jq" />
+      <item index="1" class="java.lang.String" itemvalue="Python.access_zabbix" />
+      <item index="2" class="java.lang.String" itemvalue="Python.myAnsible" />
+      <item index="3" class="java.lang.String" itemvalue="Python.AAAnsible" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.AAAnsible" />
-        <item index="1" class="java.lang.String" itemvalue="Python.myAnsible" />
-        <item index="2" class="java.lang.String" itemvalue="Python.access_zabbix" />
-        <item index="3" class="java.lang.String" itemvalue="Python.dingd_jq" />
-        <item index="4" class="java.lang.String" itemvalue="Python.yinyong" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.AAAnsible" />
+        <item index="2" class="java.lang.String" itemvalue="Python.myAnsible" />
+        <item index="3" class="java.lang.String" itemvalue="Python.access_zabbix" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dingd_jq" />
       </list>
     </recent_temporary>
   </component>
@@ -516,7 +525,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="685" y="28" width="1234" height="998" extended-state="0" />
+    <frame x="297" y="28" width="1623" height="998" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -525,7 +534,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2425968" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21799028" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09365373" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -569,13 +578,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/devops/py01/fork_bian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python3.6/site-packages/pymysql/connections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -891,40 +893,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/devops/py06/myAnsible.py">
+    <entry file="file://$PROJECT_DIR$/devops/py06/mytest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#36#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/devops/py06/AAAnsible.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/devops/py06/mytest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#26#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/devops/py06/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#24#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py06/ansi_mods/remote_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/py06/myAnsible.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
           </folding>
         </state>
       </provider>

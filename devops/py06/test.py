@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from collections import namedtuple
 from ansible.parsing.dataloader import DataLoader
 from ansible.vars.manager import VariableManager

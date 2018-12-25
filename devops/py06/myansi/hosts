@@ -4,3 +4,4 @@ node3
 [webservers]
 node1
 node2
+localhost

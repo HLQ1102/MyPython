@@ -21,7 +21,7 @@ options = Options(connection='smart', module_path=['/to/mymodules'], forks=10, b
 # initialize needed objects
 # 初始化所需要的对象
 # DataLoader用于分析yaml/json/ini格式的文件
-loader = DataLoader() # Takes care of finding and reading yaml, json and ini files
+loader = DataLoader()  # Takes care of finding and reading yaml, json and ini files
 # 用于存储各种各样的密码
 # passwords = dict(vault_pass='secret')
 passwords = dict()
@@ -31,11 +31,13 @@ passwords = dict()
 # inventory = InventoryManager(loader=loader, sources='localhost,')
 inventory = InventoryManager(loader=loader, sources=['myansi/hosts'])
 
-# variable manager takes care of merging all the different sources to give you a unifed view of variables available in each context
+# variable manager takes care of merging all the different sources to give you a unifed view of variables
+# available in each context
 # 变量管理器
 variable_manager = VariableManager(loader=loader, inventory=inventory)
 
-# create datastructure that represents our play, including tasks, this is basically what our YAML loader does internally.
+# create datastructure that represents our play, including tasks, this is basically what our YAML loader
+# does internally.
 # 创建Play结构
 play_source = dict(
         name="My Ansible Play Test",   # Play的名字
@@ -52,7 +54,8 @@ play_source = dict(
 # 实例化一个Play对象
 play = Play().load(play_source, variable_manager=variable_manager, loader=loader)
 
-# Run it - instantiate task queue manager, which takes care of forking and setting up all objects to iterate over host list and tasks
+# Run it - instantiate task queue manager, which takes care of forking and setting up all objects to iterate
+#  over host list and tasks
 tqm = None
 try:
     tqm = TaskQueueManager(
