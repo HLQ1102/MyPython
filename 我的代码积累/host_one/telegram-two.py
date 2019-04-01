@@ -1,11 +1,16 @@
-import telegram
-import sys
-import requests
-import re
-from urllib.request import urlopen
-import time
 import os
-from PIL import Image
+import re
+import sys
+import time
+from urllib.request import urlopen
+from urllib.request import Request
+
+
+import requests
+import telegram
+
+
+# from PIL import Image
 
 
 # 发送消息
@@ -19,21 +24,29 @@ def send_text(token, id, content):
 # 发送图片
 def send_phtot(token, id, url):
     bot = telegram.Bot(token=token)
-    image_list = get_phtot_url(url)
-    sum1 = 0
-    llist = []
-    for photo in image_list:
-        if sum1 % 2 == 0:
-            time.sleep(1)
-        size = len(urlopen(photo).read())
-        if size >= 70000:
-            llist.append(size)
-            sum1 += 1
-            bot.send_photo(chat_id=id, photo=photo)
-    print('标准是%s' % 70000)
-    print("一共发了%d张照片" % sum1)
-    print('平均大小是', sum(llist)/len(llist)/1024, 'KB')
-    print(llist, len(llist))
+    if ('.jpg' or '.jpeg' or '.png') in url:
+        bot.send_photo(chat_id=id, photo=url)
+    else:
+        image_list = get_phtot_url(url)
+        sum1 = 0
+        llist = []
+        for photo in image_list:
+            if '.jpg' not in url:
+                continue
+            elif sum1 % 2 == 0:
+                time.sleep(2)
+            size = len(urlopen(photo).read())
+            if size >= 70000:
+                llist.append(size)
+                sum1 += 1
+                try:
+                    bot.send_photo(chat_id=id, photo=photo)
+                except 'urllib.error.HTTPError':
+                    continue
+        print('标准是%s' % 70000)
+        print("一共发了%d张照片" % sum1)
+        # print('平均大小是', sum(llist)/len(llist)/1024, 'KB')
+        print(llist, len(llist))
 
 
 # 发送带标题的web连接
@@ -68,6 +81,10 @@ def PanDuan(result):
 
 # 获取所有的图片的URL
 def get_phtot_url(url, code='utf-8'):
+    # User_Agent = 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Mobile Safari/537.36'
+    # headers = {'User-Agent': User_Agent}
+    # req = Request(url, headers)
+    # html = urlopen(req)
     html = urlopen(url)
     tempfile = './temp'
     with open(tempfile, 'wb') as fobj:
@@ -119,6 +136,11 @@ if __name__ == '__main__':
     url = 'http://dy.qing5.com/article/4387.html'
     url = 'http://www.3lian.com/desk/2016/11/10768.html'
     url = 'https://telegra.ph/%E6%AF%8F%E6%97%A5%E7%8E%AF%E7%90%83%E8%A7%86%E9%87%8E-03-28'
+    url = 'https://www.mrlong.cc/474.html'
+    url = 'http://www.doudouxitong.net/meihua/bizhi/2015/1111/10338.html'
+    url = 'https://www.qiyiw.com/2015/0626/4866.html'
     # url = 'https://www.7-zip.org/a/7z1900-x64.exe'
     # send(token=token, id=id_dict['play_channal'], url=url, content=content, tag='photo')
     send(token=token, id=id_dict['xiaofeng_group'], url=url, content=content, tag='photo')
+    # url = 'http://www.92uh.com/uploads/zipai/20161013/201610131017044983.jpg'
+    # send_phtot(token=token, id=id_dict['xiaofeng_group'], url=url)
