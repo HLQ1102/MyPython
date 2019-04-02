@@ -19,26 +19,22 @@ def send_text(token, id, content):
 
 
 # 发送图片
-def send_phtot(token, id, url):
+def send_phtot(token, id, image_list):
     bot = telegram.Bot(token=token)
-    if ('.jpg' or '.jpeg') in url:
-        bot.send_photo(chat_id=id, photo=url)
-    else:
-        image_list = get_phtot_url(url)
-        sum1 = 0
-        sum2 = 0
-        llist = []
-        for photo in image_list:
-            if '.jpg' not in photo:
-                sum2 += 1
-                continue
-            elif sum1 % 2 == 0:
-                time.sleep(2)
-            size = len(urlopen(photo).read())
-            if size >= 60000:
-                llist.append(size)
-                sum1 += 1
-                bot.send_photo(chat_id=id, photo=photo)
+    sum1 = 0
+    sum2 = 0
+    llist = []
+    for photo in image_list:
+        if '.jpg' not in photo:
+            sum2 += 1
+            continue
+        elif sum1 % 2 == 0:
+            time.sleep(2)
+        size = len(urlopen(photo).read())
+        if size >= 60000:
+            llist.append(size)
+            sum1 += 1
+            bot.send_photo(chat_id=id, photo=photo)
 
         print('标准是%s' % 70000)
         print("一共发了%d张照片" % sum1)
