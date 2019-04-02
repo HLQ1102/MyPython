@@ -3,6 +3,7 @@ import os
 import time
 import urllib.request
 from urllib.request import urlopen
+import requests
 from webimg.geturl import get_img_url
 
 import telegram
@@ -28,12 +29,19 @@ def get_photo_list():
     html = urllib.request.urlopen(req)
 
     tempfile = './temp'
-    with open(tempfile, 'wb') as fobj:
-        while True:
-            data = html.read(1024)
-            if not data:
-                break
-            fobj.write(data)
+    try:
+        req = urllib.request.Request(url, headers)
+        html = urllib.request.urlopen(req)
+        with open(tempfile, 'wb') as fobj:
+            while True:
+                data = html.read(1024)
+                if not data:
+                    break
+                fobj.write(data)
+    except Exception:
+        with open(tempfile, 'w', errors='ignore') as f:
+            html = requests.get(url)
+            f.write(html.text)
     img_patt = '(http|https)://[-\w./]+(\.jpg|\.jpeg|\.png)'
     cpatt = re.compile(img_patt)
     result = []  # 把所有的匹配存入该列表
@@ -42,13 +50,13 @@ def get_photo_list():
             match_objs = cpatt.finditer(line)  # 找到一行中的多个模式
             for m in match_objs:
                 result.append(m.group())  # 将找到的内容追加到列表
-    os.remove(tempfile)
+    # os.remove(tempfile)
     print(result)
     print(len(result), '下一个\n')
     return filter_link(result)
 
 
-# 过滤.jpg的图片连接
+# 过滤重复的.jpg或者.jpeg的图片连接
 def filter_link(image_list):
     result1 = []
     for photo in image_list:
@@ -69,13 +77,7 @@ def filter_link(image_list):
 def send_phtot(token, id, image_list):
     # global headers
     header = {}
-    # header['accept']: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3'
-    # header['accept-encoding']: 'gzip, deflate, br'
-    # header['accept-language']: 'zh-CN,zh-HK;q=0.9,zh;q=0.8'
-    # header['cache-control']: 'max-age=0'
-    # header['if-modified-since']: 'Tue, 02 Apr 2019 05:53:25 GMT'
-    # header['if-none-match']: "6be838b5cc58252d"
-    # header['upgrade-insecure-requests']: 1
+    header['accept']: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3'
     header['user-agent']: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36'
 
     bot = telegram.Bot(token=token)
@@ -87,27 +89,24 @@ def send_phtot(token, id, image_list):
         if '.png' in photo:
             print(photo)
             continue
-        if sum1 % 2 == 0:
-            time.sleep(3)
+        if sum1 % 3 == 0:
+            time.sleep(2)
         elif sum2 == 11:
             time.sleep(5)
         req = urllib.request.Request(photo, headers=headers)
         size = len(urlopen(req).read())
         if size >= 50000:
             llist.append(size)
-            sum1 += 1
-            bot.send_photo(chat_id=id, photo=photo)
-
-            # try:
-            #     bot.send_photo(chat_id=id, photo=photo)
-            #     sum2 += 1
-            # except Exception:
-            #     print('haha')
-            #     continue
+            try:
+                bot.send_photo(chat_id=id, photo=photo)
+                sum2 += 1
+            except Exception:
+                print('haha')
+                continue
     print('标准是%s' % 60000)
-    print("一共发了%d张照片" % sum1)
-    # print('平均大小是', sum(llist)/len(llist)/1024, 'KB')
+    print("一共发了%d张照片" % sum2)
     print(llist, len(llist))
+    # print('平均大小是KB' % sum(llist)/len(llist)/1024)
     # print(sum2)
 
 
@@ -116,7 +115,10 @@ if __name__ == '__main__':
     id_dict = {"xiaofeng": 712498831, 'xiaofeng_group': -355111393, 'play_channal': -1001400340255}
     # result = get_photo_list()
     # send_phtot(token_dict['xiaofeng'], id_dict['xiaofeng_group'], result)
-    url = 'https://www.worldofbuzz.com/beautiful-girl-captured-hearts-people-around-world-male/'
+    url = 'https://www.persianup.com/entertainment/sexy-world-cup-women/'
+    url = 'https://kami.com.ph/36927-most-beautiful-celebrities-philippines.html#36927'
+    url = 'https://www.maxim.com/women/what-eden-rambo-wants-2018-11'
+    url = 'https://www.jooomshaper.com/group/beautiful-girls-wallpapers-for-desktop/'
     # bot = telegram.Bot(token=token_dict['xiaofeng'])
     # bot.send_photo(chat_id=id_dict['xiaofeng_group'], photo='https://i1.wp.com/www.persianup.com/wp-content/uploads/2018/06/DAWyA77XkAE6h7k.jpg')
     result = filter_link(get_img_url(url))
